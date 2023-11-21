@@ -6,6 +6,7 @@
 - [Qui suis-je et quel est mon parcours?](#qui-suis-je-et-quel-est-mon-parcours)
 - [Quels sont mes objectifs personnels?](#quels-sont-mes-objectifs-personnels)
 - [Quelles sont mes compétences?](#quelles-sont-mes-compétences)
+- [Quels sont mes projets et mes travaux?](#quels-sont-mes-projets-et-mes-travaux?)
 
 
 
@@ -41,6 +42,12 @@ J'ai également pu développer au cours de nombreux projets au sein de l'IUT mes
 
 - Les **soft-skills** sont mes compétences que l'on pourrait qualifier "d'humaines". Je suis capable de travailler en équipe, dans lesquels je pense que la communication est la clé. J'ai par ailleurs pu prouver mes capacités de communication en remportant un concours d'éloquence organisé par mon département en Juin 2022.  
 Je suis une personne patiente, possédant une capacité d'analyse rapide. J'apprécie être désigné comme leader d'un groupe, ce qui fût le cas lors de nos projets semestriels en 2ème année de formation, me permettant ainsi d'avoir le point de vu d'un chef d'équipe. Enfin, je sais prendre le temps d'être à l'écoute des autres et de leurs idées, ce qui me permet de me remettre en question afin d'avoir un point de vue différent du mien, ce qui me permet d'élargir ma vision dans un projet.
+
+- Les **mad-skills** sont les compétences dites "originales" que je possède. Elles sont pour ma part dû à mes activités extra-étudiantes et en rapport avec mes activités sportive. Je pratique le tennis en club, ce qui me permet d'apprendre les valeurs du sport et surtout la coordination, nécessaire pendant des matchs doubles.  
+Je pratique également du vélo de route, depuis maintenant 3 ans, cela me permet de savoir toujours surpasser mes limites, en allant toujours plus loin que ce dont je me croyais capable.
+
+
+# Quels sont mes projets et mes travaux?
 
 
 
