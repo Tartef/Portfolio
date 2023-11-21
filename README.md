@@ -3,6 +3,7 @@
 
 # Sommaire
 
+ - [Qui suis-je et quel est mon parcours?] (#Qui suis-je et quel est mon parcours?)
 
 
 
@@ -21,4 +22,15 @@ Je possède mon permis pour la catégorie B, ainsi qu’un véhicule personnel, 
 
 # Quels sont mes objectifs personnels?
 
-Après avoir passé 3 années à développer mes compétences informatiques dans le développement, j'ai pour ambition de m'orienter dans le domaine de la gestion de projet et de management. En effet, ayant pris pour passion d'organiser et de gérer les travaux que nous avons eu l'occasion d'effectuer en équipe, j'ai pour objectif final de réaliser cela dans le monde de l'entreprise en devenant dans la mesure du possible manager d'équipe, ou chef de projet.
+Après avoir passé 3 années à développer mes compétences informatiques dans le développement, j'ai pour ambition de m'orienter dans le domaine de la gestion de projet et de management.  Le BUT Informatique m'a fait découvrir le travail en équipe, et c'est cela qui me pousse à vouloir poursuivre dans mes ambitions.
+
+En effet, ayant pris pour passion d'organiser et de gérer les travaux que nous avons eu l'occasion d'effectuer en équipe, j'ai pour objectif final de réaliser cela dans le monde de l'entreprise en devenant dans la mesure du possible manager d'équipe, ou chef de projet.
+Dans la mesure du possible j'ai pour objectif de rejoindre une formation qui me permettra à l'avenir d'atteindre mes objectifs, via une licence 3 en gestion ou une école d'ingénieur.
+
+# Quelles sont mes compétences?
+
+On peut citer 3 catégories de compétences, les hard-skills, les soft-skills et les Mad-skills.
+
+Les hard-skills sont mes compétences brutes, dites "dures", on verra dans cette catégories les langages de programmations entre autre. Je possède en outre un niveau moyen sur des langages de développement logiciel, tel que Python ou Java, et un niveau avancé sur les langages de développement web HTML, CSS et JS, qui sont les langages que j'ai utilisé au cours de mon stage de 2ème année.
+
+J'ai également pu développer au cours de nombreux projets au sein de l'IUT mes compétences en langage de programmation de base de données.
