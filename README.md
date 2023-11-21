@@ -45,7 +45,8 @@ Dans la mesure du possible j'ai pour objectif de rejoindre une formation qui me 
 On peut citer 3 catégories de compétences, les hard-skills, les soft-skills et les Mad-skills.
 
 - Les **hard-skills** sont mes compétences brutes, dites "dures", on verra dans cette catégorie les langages de programmation entre autres. Je possède en outre un niveau moyen sur des langages de développement logiciel, tels que Python ou Java, et un niveau avancé sur les langages de développement web HTML, CSS et JS, qui sont les langages que j'ai utilisés au cours de mon stage de 2ème année.  
-J'ai également pu développer au cours de nombreux projets au sein de l'IUT mes compétences en langage de programmation de bases de données, avec entre autres un SAÉ (situation d'apprentissage et d'évaluation) que nous avons réalisé en équipe de 5 personnes pour l'entreprise Legrand.
+J'ai également pu développer au cours de nombreux projets au sein de l'IUT mes compétences en langage de programmation de bases de données, avec entre autres un SAÉ (situation d'apprentissage et d'évaluation) que nous avons réalisé en équipe de 5 personnes pour l'entreprise Legrand.  
+Pour finir avec des compétences qui ne sont pas en relations directes avec la programmation informatique, je possède niveau d'anglais fluide, équivalent C1 (980/990 au TOEIC) ainsi qu'un niveau scolaire en espagnol niveau B1.
 
 - Les **soft-skills** sont mes compétences que l'on pourrait qualifier "d'humaines". Je suis capable de travailler en équipe, dans lesquels je pense que la communication est la clé. J'ai par ailleurs pu prouver mes capacités de communication en remportant un concours d'éloquence organisé par mon département en Juin 2022.  
 Je suis une personne patiente, possédant une capacité d'analyse rapide. J'apprécie être désigné comme leader d'un groupe, ce qui fût le cas lors de nos projets semestriels en 2ème année de formation, me permettant ainsi d'avoir le point de vu d'un chef d'équipe. Enfin, je sais prendre le temps d'être à l'écoute des autres et de leurs idées, ce qui me permet de me remettre en question afin d'avoir un point de vue différent du mien, ce qui me permet d'élargir ma vision dans un projet.
@@ -58,5 +59,6 @@ Je pratique également du vélo de route, depuis maintenant 3 ans, cela me perme
 # Quels sont mes projets et mes travaux?
 
 
-Au cours de mes différentes années de BUT Informatique, il nous a été demandé de mener de nombreux projets, qu'il s'agisse de SAÉ ou bien de projet en rapport avec nos ressources. Ces projets nous ont permis de développer des compétences dans différents domaines, du développement d'application ou de sites webss, à la gestion de projet et au travail en équipe.
+Au cours de mes différentes années de BUT Informatique, il nous a été demandé de mener de nombreux projets, qu'il s'agisse de SAÉ ou bien de projet en rapport avec nos ressources. Ces projets nous ont permis de développer des compétences dans différents domaines, du développement d'application ou de sites webss, à la gestion de projet et au travail en équipe. J'ai également pris part à un stage de 2 mois lors de ma deuxième année de formation, que j'ai effectué au sein de l'entreprise MobileIt à Limoges. Ces différentes expériences m'ont permis, en équipe, de développer mes capacités de développement. 
+
 
