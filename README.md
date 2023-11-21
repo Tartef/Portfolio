@@ -1,4 +1,4 @@
-# <span style="color:blue;">Portfolio de M. Florian CONTIE</span>
+# Portfolio de M. Florian CONTIE
 
 
 # Sommaire
@@ -16,6 +16,7 @@
 
 # Qui suis-je et quel est mon parcours?
 
+
 Je suis **M. CONTIE Florian**, né le 3 mai 2002 à Limoges. Je suis étudiant en 3ème année de BUT Informatique à Limoges.Je possède mon permis pour la catégorie B, ainsi qu’un véhicule personnel, qui me permet d’être mobile à tout moment.
 
 J’ai obtenu mon bac S spécialité Sciences de l’ingénieur avec mention européenne en 2020 au lycée Turgot.
@@ -28,15 +29,18 @@ Apprendre différents langages et la manière dont fonctionne les appareils tech
 
 
 
-
 # Quels sont mes objectifs personnels?
+
 
 Après avoir passé 3 années à développer mes compétences informatiques dans le développement, j'ai pour ambition de m'orienter dans le domaine de la gestion de projet et de management.  Le BUT Informatique m'a fait découvrir le travail en équipe, et c'est cela qui me pousse à vouloir poursuivre dans mes ambitions.
 
 En effet, ayant pris pour passion d'organiser et de gérer les travaux que nous avons eu l'occasion d'effectuer en équipe, j'ai pour objectif final de réaliser cela dans le monde de l'entreprise en devenant dans la mesure du possible manager d'équipe, ou chef de projet.
 Dans la mesure du possible j'ai pour objectif de rejoindre une formation qui me permettra à l'avenir d'atteindre mes objectifs, via une licence 3 en gestion ou une école d'ingénieur.
 
+
+
 # Quelles sont mes compétences?
+
 
 On peut citer 3 catégories de compétences, les hard-skills, les soft-skills et les Mad-skills.
 
@@ -50,7 +54,9 @@ Je suis une personne patiente, possédant une capacité d'analyse rapide. J'appr
 Je pratique également du vélo de route, depuis maintenant 3 ans, cela me permet de savoir toujours surpasser mes limites, en allant toujours plus loin que ce dont je me croyais capable.
 
 
+
 # Quels sont mes projets et mes travaux?
+
 
 Au cours de mes différentes années de BUT Informatique, il nous a été demandé de mener de nombreux projets, qu'il s'agisse de SAÉ ou bien de projet en rapport avec nos ressources. Ces projets nous ont permis de développer des compétences dans différents domaines, du développement d'application ou de sites webss, à la gestion de projet et au travail en équipe.
 
