@@ -36,6 +36,7 @@ Dans la mesure du possible j'ai pour objectif de rejoindre une formation qui me 
 
 On peut citer 3 catégories de compétences, les hard-skills, les soft-skills et les Mad-skills.
 
-- Les **hard-skills** sont mes compétences brutes, dites "dures", on verra dans cette catégories les langages de programmations entre autre. Je possède en outre un niveau moyen sur des langages de développement logiciel, tel que Python ou Java, et un niveau avancé sur les langages de développement web HTML, CSS et JS, qui sont les langages que j'ai utilisé au cours de mon stage de 2ème année. J'ai également pu développer au cours de nombreux projets au sein de l'IUT mes compétences en langage de programmation de base de données, avec entre autre un SAÉ (situation d'apprentissage et d'évaluation) que nous avons réalisé en équipe de 5 personnes pour l'entreprise Legrand.
+- Les **hard-skills** sont mes compétences brutes, dites "dures", on verra dans cette catégories les langages de programmations entre autre. Je possède en outre un niveau moyen sur des langages de développement logiciel, tel que Python ou Java, et un niveau avancé sur les langages de développement web HTML, CSS et JS, qui sont les langages que j'ai utilisé au cours de mon stage de 2ème année.
+J'ai également pu développer au cours de nombreux projets au sein de l'IUT mes compétences en langage de programmation de base de données, avec entre autre un SAÉ (situation d'apprentissage et d'évaluation) que nous avons réalisé en équipe de 5 personnes pour l'entreprise Legrand.
 
 
