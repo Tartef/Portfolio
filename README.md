@@ -4,7 +4,8 @@
 # Sommaire
 
 - [Qui suis-je et quel est mon parcours?](#qui-suis-je-et-quel-est-mon-parcours)
-
+- [Quels sont mes objectifs personnels?](#quels-sont-mes-objectifs-personnels)
+- [Quelles sont mes compétences?](#quelles-sont-mes-compétences)
 
 
 
