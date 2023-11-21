@@ -39,5 +39,8 @@ On peut citer 3 catégories de compétences, les hard-skills, les soft-skills et
 - Les **hard-skills** sont mes compétences brutes, dites "dures", on verra dans cette catégorie les langages de programmation entre autres. Je possède en outre un niveau moyen sur des langages de développement logiciel, tels que Python ou Java, et un niveau avancé sur les langages de développement web HTML, CSS et JS, qui sont les langages que j'ai utilisés au cours de mon stage de 2ème année.  
 J'ai également pu développer au cours de nombreux projets au sein de l'IUT mes compétences en langage de programmation de bases de données, avec entre autres un SAÉ (situation d'apprentissage et d'évaluation) que nous avons réalisé en équipe de 5 personnes pour l'entreprise Legrand.
 
+- Les **soft-skills** sont mes compétences que l'on pourrait qualifier "d'humaines". Je suis capable de travailler en équipe, dans lesquels je pense que la communication est la clé. J'ai par ailleurs pu prouver mes capacités de communication en remportant un concours d'éloquence organisé par mon département en Juin 2022.  
+Je suis une personne patiente, possédant une capacité d'analyse rapide. J'apprécie être désigné comme leader d'un groupe, ce qui fût le cas lors de nos projets semestriels en 2ème année de formation, me permettant ainsi d'avoir le point de vu d'un chef d'équipe. 
+
 
 
