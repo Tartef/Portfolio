@@ -49,5 +49,5 @@ Je pratique également du vélo de route, depuis maintenant 3 ans, cela me perme
 
 # Quels sont mes projets et mes travaux?
 
-
+Au cours de mes différentes années de BUT Informatique, il nous a été demandé de mener de nombreux projets, qu'il s'agisse de SAÉ ou bien de projet en rapport avec nos ressources. Ces projets nous ont permis de développer des compétences dans différents domaines, du développement d'application ou de sites webss, à la gestion de projet et au travail en équipe.
 
