@@ -69,16 +69,16 @@ Au cours de mes différentes années de BUT Informatique, il nous a été demand
 
 
 
-- Mail Professionnel : florian.contie@etu.unilim.fr
+- :email: Mail Professionnel : florian.contie@etu.unilim.fr
 
 
 
-- Mail Personnel : florian8702@gmail.com
+- :email: Mail Personnel : florian8702@gmail.com
 
 
 
-- LinkedIn :  https://www.linkedin.com/in/florian-contie-363a9b229/
+- :LinkedIn: LinkedIn :  https://www.linkedin.com/in/florian-contie-363a9b229/
 
 
 
-- Téléphone mobile : +33 6 18 70 36 48.
+- 📱 Téléphone mobile : +33 6 18 70 36 48.
