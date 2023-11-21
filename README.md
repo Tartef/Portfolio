@@ -77,7 +77,7 @@ Au cours de mes différentes années de BUT Informatique, il nous a été demand
 
 
 
-- :LinkedIn: LinkedIn :  https://www.linkedin.com/in/florian-contie-363a9b229/
+- :linkedin: LinkedIn :  https://www.linkedin.com/in/florian-contie-363a9b229/
 
 
 
