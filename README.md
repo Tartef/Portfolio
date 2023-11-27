@@ -61,7 +61,13 @@ Je pratique également du vélo de route, depuis maintenant 3 ans, cela me perme
 # Quels sont mes projets et mes travaux?
 
 
-Au cours de mes différentes années de BUT Informatique, il nous a été demandé de mener de nombreux projets, qu'il s'agisse de SAÉ ou bien de projet en rapport avec nos ressources. Ces projets nous ont permis de développer des compétences dans différents domaines, du développement d'application ou de sites webss, à la gestion de projet et au travail en équipe. J'ai également pris part à un stage de 2 mois lors de ma deuxième année de formation, que j'ai effectué au sein de l'entreprise MobileIt à Limoges. Ces différentes expériences m'ont permis, en équipe, de développer mes capacités de développement. 
+Au cours de mes différentes années de BUT Informatique, il nous a été demandé de mener de nombreux projets, qu'il s'agisse de SAÉ ou bien de projet en rapport avec nos ressources. Ces projets nous ont permis de développer des compétences dans différents domaines, du développement d'application ou de sites webss, à la gestion de projet et au travail en équipe. J'ai également pris part à un stage de 2 mois lors de ma deuxième année de formation, que j'ai effectué au sein de l'entreprise MobileIt à Limoges. Ces différentes expériences m'ont permis, en équipe, de développer mes capacités de développement, mais également d'accroître mes capacités de travail en équipe. On retrouve notamment au cours de SAE des projets de mise en place de réseau selon une architecture, le développement d'un escape game dans le cadre des journées portes ouvertes lors des semestres 3 et 4. Ces SAE m'ont permis entre autre de renforcer mes compétences de qualité de code en assurant la maintenabilité de ce dernier, le travail en équipe puisque ces projets étaient par groupe de 4 personnes, puis le respect des attendu d'un client, c'est-à-dire de partir des exigences et de réaliser une application.
+Pour finir, lors de notre 3ème année, notre SAE nous a permis de consolider ces mêmes compétences, avec bien entendu un niveau d'attendu plus élevé. Nous travaillions pour l'entreprise Legrand, ce qui m'a permis d'avoir un regard plus approfondi sur le projet, qui avait un client réel, et qui pourrait être utilisé par ce dernier à l'avenir.
+
+
+# Documents attestant de mes compétences
+
+J'ai choisi de ne pas inclure les fichier images attestant de mes capacités dans ce dossier, qui permet d'avoir une meilleur visibilité. Ils sont cependant disponible sur ce repository GitHub dans le dossier fiches_sae. Vous trouverez l'entièreté des fiches attestants de mes compétences que j'ai acquérit au cours des 3 dernières années.
 
 
 
