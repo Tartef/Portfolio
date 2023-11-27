@@ -11,6 +11,8 @@
 
 - [Quels sont mes projets et mes travaux?](#quels-sont-mes-projets-et-mes-travaux)
 
+- [Mes documents attestant de mes compétences](#mes-documents-attestant-de-mes-compétences)
+
 - [Me Contacter](#me-contacter)
 
 
@@ -65,7 +67,7 @@ Au cours de mes différentes années de BUT Informatique, il nous a été demand
 Pour finir, lors de notre 3ème année, notre SAE nous a permis de consolider ces mêmes compétences, avec bien entendu un niveau d'attendu plus élevé. Nous travaillions pour l'entreprise Legrand, ce qui m'a permis d'avoir un regard plus approfondi sur le projet, qui avait un client réel, et qui pourrait être utilisé par ce dernier à l'avenir.
 
 
-# Documents attestant de mes compétences
+# Mes documents attestant de mes compétences
 
 J'ai choisi de ne pas inclure les fichier images attestant de mes capacités dans ce dossier, qui permet d'avoir une meilleur visibilité. Ils sont cependant disponible sur ce repository GitHub dans le dossier fiches_sae. Vous trouverez l'entièreté des fiches attestants de mes compétences que j'ai acquérit au cours des 3 dernières années.
 
