@@ -1,5 +1,6 @@
 # Portfolio de M. Florian CONTIE
 
+Ci-dessous mon portfolio avec une partie présentation, puis mes objectifs et pour finir mes compétences et les documents qui attestent de ces dernières.
 
 # Sommaire
 
