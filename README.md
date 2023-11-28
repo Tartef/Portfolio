@@ -76,7 +76,7 @@ Pour finir, lors de notre 3ème année, notre SAE nous a permis de consolider ce
 
 # Mes documents attestant de mes compétences
 
-J'ai choisi de ne pas inclure les fichier images attestant de mes capacités dans ce dossier, qui permet d'avoir une meilleur visibilité. Ils sont cependant disponible sur ce repository GitHub dans le dossier fiches_SAE. Vous trouverez l'entièreté des fiches attestants de mes compétences que j'ai acquérit au cours des 3 dernières années.
+J'ai choisi de ne pas inclure les fichier images attestant de mes capacités dans ce dossier, qui permet d'avoir une meilleur visibilité. Ils sont cependant disponible sur ce repository GitHub dans le dossier fiches_SAE(#https://github.com/Tartef/Portfolio/tree/main/fiches_SAE) . Vous trouverez l'entièreté des fiches attestants de mes compétences que j'ai acquérit au cours des 3 dernières années.
 
 
 
