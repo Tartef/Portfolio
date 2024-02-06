@@ -12,7 +12,7 @@ Ci-dessous mon portfolio avec une partie présentation, puis mes objectifs et po
 
 - [Quels sont mes projets et mes travaux?](#quels-sont-mes-projets-et-mes-travaux)
 
-- [Le lien avec mon alternance}(#le-lien-avec-mon-alternance)
+- [Le lien avec mon alternance](#le-lien-avec-mon-alternance)
   
 - [Mes documents attestant de mes compétences](#mes-documents-attestant-de-mes-compétences)
 
