@@ -12,6 +12,8 @@ Ci-dessous mon portfolio avec une partie présentation, puis mes objectifs et po
 
 - [Quels sont mes projets et mes travaux?](#quels-sont-mes-projets-et-mes-travaux)
 
+- [Le lien avec mon alternance}(#le-lien-avec-mon-alternance)
+  
 - [Mes documents attestant de mes compétences](#mes-documents-attestant-de-mes-compétences)
 
 - [Me Contacter](#me-contacter)
@@ -73,6 +75,11 @@ Au cours de mon stage, je me suis rendu compte de l'importance réelle de la qua
 
 Pour finir, lors de notre 3ème année, notre SAE nous a permis de consolider ces mêmes compétences, avec bien entendu un niveau d'attendu plus élevé. Nous travaillions pour l'entreprise Legrand, ce qui m'a permis d'avoir un regard plus approfondi sur le projet, qui avait un client réel, et qui pourrait être utilisé par ce dernier à l'avenir. C'est au cours de ce projet que j'ai pu me rendre compte du niveau de compétence qu'il était attendu que nous ayons. En effet, en terme de travail en équipe, j'ai pu observer tout au long de notre SAE la mise en place très sérieuse d'une gestion de projet, avec un chef de porjet qui avait pour but de répartir nos tâches dans le projet, ou d'organiser des réunions.
 
+
+
+# Le lien avec mon alternance
+
+Dans le cadre de ma 3ème année de BUT Informatique, j'ai pu effectuer une alternance, dans l'entreprise MobileIT, en tant que développeur full-stack. Bien que les technologies ne sont pas les mêmes que celles que nous apprenons au cours de notre formation, certains enseignements m'ont été particulièrement utiles, notamment les méthodes agiles et la communication.
 
 # Mes documents attestant de mes compétences
 
